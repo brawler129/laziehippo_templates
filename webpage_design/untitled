@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>List of Lazy Hippo Destinations</title>
+    </head>
+    <body>
+        <h3>Where do you want to go today??</h3>
+        <div id="singtam"><a href="">Singtam</a></div>
+        <div id="rangpo"><a href="">Rangpo</a></div>
+        <div id="gangtok"><a href="">Gangtok</a></div>
+        <div id="siliguri"><a href="">Siliguri</a></div>
+        <div id="kalimpong"><a href="">Kalimpong</a></div>
+    </body>
+    <footer>
+        <h4>Copyrights</h4>
+        <h5>Lazy Hippo</h5>
+        <h5>2018</h5>
+    </footer>
+<html>
